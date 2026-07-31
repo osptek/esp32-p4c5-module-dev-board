@@ -201,7 +201,7 @@ Full schematic PDF: [docs/ESP32P4模组基础底板V1.3.pdf](./docs/ESP32P4模�
 This dev board carries the **ESP32-P4C5 Core Board** (`esp32-p4c5-core-board`) with all core-board
 pins broken out. Specs and pinout details are in its dedicated repositories:
 
-- GitHub: <https://github.com/osptek-tech/esp32-p4c5-core-board>
+- GitHub: <https://github.com/osptek/esp32-p4c5-core-board>
 - Gitee: <https://gitee.com/osptek/esp32-p4c5-core-board>
 
 ## Compatible Displays
@@ -211,23 +211,23 @@ The following models can be used with this board; see each repository for detail
 
 | Size | Resolution | Type | Driver IC | GitHub | Gitee |
 | ---- | ---------- | ---- | --------- | ------ | ----- |
-| 1.6″ | 480×480 | AMOLED | ST7802 | [Link](https://github.com/osptek-tech/1.6-amoled-480x480-mipi-st7802) | [Link](https://gitee.com/osptek/1.6-amoled-480x480-mipi-st7802) |
-| 1.73″ | 466×466 | AMOLED | CO5300 | [Link](https://github.com/osptek-tech/1.73-amoled-466x466-mipi-co5300) | [Link](https://gitee.com/osptek/1.73-amoled-466x466-mipi-co5300) |
-| 2.0″ | 460×460 | AMOLED | CO5300 | [Link](https://github.com/osptek-tech/2.0-amoled-460x460-mipi-co5300) | [Link](https://gitee.com/osptek/2.0-amoled-460x460-mipi-co5300) |
-| 2.1″ | 480×480 | TFT | ST77922 | [Link](https://github.com/osptek-tech/2.1-tft-480x480-mipi-st77922) | [Link](https://gitee.com/osptek/2.1-tft-480x480-mipi-st77922) |
-| 2.13″ | 410×502 | AMOLED | ST7801 | [Link](https://github.com/osptek-tech/2.13-amoled-410x502-mipi-st7801) | [Link](https://gitee.com/osptek/2.13-amoled-410x502-mipi-st7801) |
-| 2.76″ | 480×480 | TFT | ST7701 | [Link](https://github.com/osptek-tech/2.76-tft-480x480-mipi-st7701) | [Link](https://gitee.com/osptek/2.76-tft-480x480-mipi-st7701) |
-| 2.95″ | 480×854 | TFT | ST7701 | [Link](https://github.com/osptek-tech/2.95-tft-480x854-mipi-st7701) | [Link](https://gitee.com/osptek/2.95-tft-480x854-mipi-st7701) |
-| 3.13″ | 376×960 | TFT | GC9503CV | [Link](https://github.com/osptek-tech/3.13-tft-376x960-mipi-gc9503cv) | [Link](https://gitee.com/osptek/3.13-tft-376x960-mipi-gc9503cv) |
-| 3.19″ | 272×928 | AMOLED | CO6300 | [Link](https://github.com/osptek-tech/3.19-amoled-272x928-mipi-co6300) | [Link](https://gitee.com/osptek/3.19-amoled-272x928-mipi-co6300) |
-| 3.42″ | 258×960 | TFT | AXS15231B | [Link](https://github.com/osptek-tech/3.42-tft-258x960-mipi-axs15231b) | [Link](https://gitee.com/osptek/3.42-tft-258x960-mipi-axs15231b) |
-| 3.82″ | 280×1020 | TFT | AXS15231B | [Link](https://github.com/osptek-tech/3.82-tft-280x1020-mipi-axs15231b) | [Link](https://gitee.com/osptek/3.82-tft-280x1020-mipi-axs15231b) |
-| 3.95″ | 480×480 | TFT | ST7102 | [Link](https://github.com/osptek-tech/3.95-tft-480x480-mipi-st7102) | [Link](https://gitee.com/osptek/3.95-tft-480x480-mipi-st7102) |
-| 3.97″ | 480×800 | TFT | GC9503CV | [Link](https://github.com/osptek-tech/3.97-tft-480x800-mipi-gc9503cv) | [Link](https://gitee.com/osptek/3.97-tft-480x800-mipi-gc9503cv) |
-| 4.0″ | 720×720 | TFT | ST7703 | [Link](https://github.com/osptek-tech/4.0-tft-720x720-mipi-st7703) | [Link](https://gitee.com/osptek/4.0-tft-720x720-mipi-st7703) |
-| 4.3″ | 480×800 | TFT | ST7102 | [Link](https://github.com/osptek-tech/4.3-tft-480x800-mipi-st7102) | [Link](https://gitee.com/osptek/4.3-tft-480x800-mipi-st7102) |
-| 4.58″ | 424×1280 | TFT | JD9261 | [Link](https://github.com/osptek-tech/4.58-tft-424x1280-mipi-jd9261) | [Link](https://gitee.com/osptek/4.58-tft-424x1280-mipi-jd9261) |
-| 10.1″ | 800×1280 | TFT | JD9366 | [Link](https://github.com/osptek-tech/10.1-tft-800x1280-mipi-jd9366) | [Link](https://gitee.com/osptek/10.1-tft-800x1280-mipi-jd9366) |
+| 1.6″ | 480×480 | AMOLED | ST7802 | [Link](https://github.com/osptek/1.6-amoled-480x480-mipi-st7802) | [Link](https://gitee.com/osptek/1.6-amoled-480x480-mipi-st7802) |
+| 1.73″ | 466×466 | AMOLED | CO5300 | [Link](https://github.com/osptek/1.73-amoled-466x466-mipi-co5300) | [Link](https://gitee.com/osptek/1.73-amoled-466x466-mipi-co5300) |
+| 2.0″ | 460×460 | AMOLED | CO5300 | [Link](https://github.com/osptek/2.0-amoled-460x460-mipi-co5300) | [Link](https://gitee.com/osptek/2.0-amoled-460x460-mipi-co5300) |
+| 2.1″ | 480×480 | TFT | ST77922 | [Link](https://github.com/osptek/2.1-tft-480x480-mipi-st77922) | [Link](https://gitee.com/osptek/2.1-tft-480x480-mipi-st77922) |
+| 2.13″ | 410×502 | AMOLED | ST7801 | [Link](https://github.com/osptek/2.13-amoled-410x502-mipi-st7801) | [Link](https://gitee.com/osptek/2.13-amoled-410x502-mipi-st7801) |
+| 2.76″ | 480×480 | TFT | ST7701 | [Link](https://github.com/osptek/2.76-tft-480x480-mipi-st7701) | [Link](https://gitee.com/osptek/2.76-tft-480x480-mipi-st7701) |
+| 2.95″ | 480×854 | TFT | ST7701 | [Link](https://github.com/osptek/2.95-tft-480x854-mipi-st7701) | [Link](https://gitee.com/osptek/2.95-tft-480x854-mipi-st7701) |
+| 3.13″ | 376×960 | TFT | GC9503CV | [Link](https://github.com/osptek/3.13-tft-376x960-mipi-gc9503cv) | [Link](https://gitee.com/osptek/3.13-tft-376x960-mipi-gc9503cv) |
+| 3.19″ | 272×928 | AMOLED | CO6300 | [Link](https://github.com/osptek/3.19-amoled-272x928-mipi-co6300) | [Link](https://gitee.com/osptek/3.19-amoled-272x928-mipi-co6300) |
+| 3.42″ | 258×960 | TFT | AXS15231B | [Link](https://github.com/osptek/3.42-tft-258x960-mipi-axs15231b) | [Link](https://gitee.com/osptek/3.42-tft-258x960-mipi-axs15231b) |
+| 3.82″ | 280×1020 | TFT | AXS15231B | [Link](https://github.com/osptek/3.82-tft-280x1020-mipi-axs15231b) | [Link](https://gitee.com/osptek/3.82-tft-280x1020-mipi-axs15231b) |
+| 3.95″ | 480×480 | TFT | ST7102 | [Link](https://github.com/osptek/3.95-tft-480x480-mipi-st7102) | [Link](https://gitee.com/osptek/3.95-tft-480x480-mipi-st7102) |
+| 3.97″ | 480×800 | TFT | GC9503CV | [Link](https://github.com/osptek/3.97-tft-480x800-mipi-gc9503cv) | [Link](https://gitee.com/osptek/3.97-tft-480x800-mipi-gc9503cv) |
+| 4.0″ | 720×720 | TFT | ST7703 | [Link](https://github.com/osptek/4.0-tft-720x720-mipi-st7703) | [Link](https://gitee.com/osptek/4.0-tft-720x720-mipi-st7703) |
+| 4.3″ | 480×800 | TFT | ST7102 | [Link](https://github.com/osptek/4.3-tft-480x800-mipi-st7102) | [Link](https://gitee.com/osptek/4.3-tft-480x800-mipi-st7102) |
+| 4.58″ | 424×1280 | TFT | JD9261 | [Link](https://github.com/osptek/4.58-tft-424x1280-mipi-jd9261) | [Link](https://gitee.com/osptek/4.58-tft-424x1280-mipi-jd9261) |
+| 10.1″ | 800×1280 | TFT | JD9366 | [Link](https://github.com/osptek/10.1-tft-800x1280-mipi-jd9366) | [Link](https://gitee.com/osptek/10.1-tft-800x1280-mipi-jd9366) |
 
 ## Compatible Cameras
 
@@ -236,8 +236,8 @@ The following models can be used with this board:
 
 | Model  | Interface | GitHub | Gitee |
 | ------ | --------- | ------ | ----- |
-| SC2336 | MIPI CSI  | [Link](https://github.com/osptek-tech/camera-mipi-csi-sc2336) | [Link](https://gitee.com/osptek/camera-mipi-csi-sc2336) |
-| OV2710 | MIPI CSI  | [Link](https://github.com/osptek-tech/camera-mipi-csi-ov2710) | [Link](https://gitee.com/osptek/camera-mipi-csi-ov2710) |
+| SC2336 | MIPI CSI  | [Link](https://github.com/osptek/camera-mipi-csi-sc2336) | [Link](https://gitee.com/osptek/camera-mipi-csi-sc2336) |
+| OV2710 | MIPI CSI  | [Link](https://github.com/osptek/camera-mipi-csi-ov2710) | [Link](https://gitee.com/osptek/camera-mipi-csi-ov2710) |
 
 ## Get Started
 
