@@ -286,26 +286,18 @@ esp32-p4c5-module-dev-board/
 ## Where to Buy
 
 <p align="center">
-  <a href="https://www.aliexpress.com/item/3256812462412360.html"><img alt="Buy on AliExpress" src="https://img.shields.io/badge/AliExpress-Buy_Now-E62E04?style=for-the-badge&logo=aliexpress&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.aliexpress.com/store/1105701619"><img alt="AliExpress Official Store" src="https://img.shields.io/badge/AliExpress-Official_Store-FF6A00?style=for-the-badge" /></a>
-</p>
-
-<p align="center">
-  <a href="https://item.taobao.com/item.htm?id=1037550120393"><img alt="Buy on Taobao" src="https://img.shields.io/badge/Taobao-Buy_Now-FF4400?style=for-the-badge&logo=alibabadotcom&logoColor=white" /></a>
+  <a href="https://www.aliexpress.com/store/1105701619"><img alt="AliExpress Official Store" src="https://img.shields.io/badge/AliExpress-Official_Store-E62E04?style=for-the-badge&logo=aliexpress&logoColor=white" /></a>
   &nbsp;&nbsp;
   <a href="https://shop110742373.taobao.com/"><img alt="Taobao Official Store" src="https://img.shields.io/badge/Taobao-Official_Store-FF6A00?style=for-the-badge" /></a>
 </p>
 
 **International (AliExpress)**
 
-- 🌍 Product: [OSPTEK ESP32-P4C5-Module Dev Board](https://www.aliexpress.com/item/3256812462412360.html)
-- 🏪 Store: [OSPTEK Official Store](https://www.aliexpress.com/store/1105701619)
+- Store: [OSPTEK Official Store](https://www.aliexpress.com/store/1105701619)
 
 **China (Taobao)**
 
-- 🛒 Product: [OSPTEK ESP32-P4C5-Module Dev Board](https://item.taobao.com/item.htm?id=1037550120393)
-- 🏬 Store: [OSPTEK Official Store](https://shop110742373.taobao.com/)
+- Store: [鱼鹰光电工厂店](https://shop110742373.taobao.com/)
 
 ---
 
