@@ -216,7 +216,7 @@ OSPTEK ESP32-P4C5-Module 开发板是一款以 **ESP32-P4C5 核心板** 为核�
 | 2.76″ | 480×480 | TFT | ST7701 | [链接](https://github.com/osptek/2.76-tft-480x480-mipi-st7701) | [链接](https://gitee.com/osptek/2.76-tft-480x480-mipi-st7701) |
 | 2.95″ | 480×854 | TFT | ST7701 | [链接](https://github.com/osptek/2.95-tft-480x854-mipi-st7701) | [链接](https://gitee.com/osptek/2.95-tft-480x854-mipi-st7701) |
 | 3.13″ | 376×960 | TFT | GC9503CV | [链接](https://github.com/osptek/3.13-tft-376x960-mipi-gc9503cv) | [链接](https://gitee.com/osptek/3.13-tft-376x960-mipi-gc9503cv) |
-| 3.19″ | 272×928 | AMOLED | CO6300 | [链接](https://github.com/osptek/3.19-amoled-272x928-mipi-co6300) | [链接](https://gitee.com/osptek/3.19-amoled-272x928-mipi-co6300) |
+| 3.19″ | 262×928 | AMOLED | CO6300 | [链接](https://github.com/osptek/3.19-amoled-262x928-mipi-co6300) | [链接](https://gitee.com/osptek/3.19-amoled-262x928-mipi-co6300) |
 | 3.42″ | 258×960 | TFT | AXS15231B | [链接](https://github.com/osptek/3.42-tft-258x960-mipi-axs15231b) | [链接](https://gitee.com/osptek/3.42-tft-258x960-mipi-axs15231b) |
 | 3.82″ | 280×1020 | TFT | AXS15231B | [链接](https://github.com/osptek/3.82-tft-280x1020-mipi-axs15231b) | [链接](https://gitee.com/osptek/3.82-tft-280x1020-mipi-axs15231b) |
 | 3.95″ | 480×480 | TFT | ST7102 | [链接](https://github.com/osptek/3.95-tft-480x480-mipi-st7102) | [链接](https://gitee.com/osptek/3.95-tft-480x480-mipi-st7102) |

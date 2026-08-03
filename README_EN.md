@@ -219,7 +219,7 @@ The following models can be used with this board; see each repository for detail
 | 2.76″ | 480×480 | TFT | ST7701 | [Link](https://github.com/osptek/2.76-tft-480x480-mipi-st7701) | [Link](https://gitee.com/osptek/2.76-tft-480x480-mipi-st7701) |
 | 2.95″ | 480×854 | TFT | ST7701 | [Link](https://github.com/osptek/2.95-tft-480x854-mipi-st7701) | [Link](https://gitee.com/osptek/2.95-tft-480x854-mipi-st7701) |
 | 3.13″ | 376×960 | TFT | GC9503CV | [Link](https://github.com/osptek/3.13-tft-376x960-mipi-gc9503cv) | [Link](https://gitee.com/osptek/3.13-tft-376x960-mipi-gc9503cv) |
-| 3.19″ | 272×928 | AMOLED | CO6300 | [Link](https://github.com/osptek/3.19-amoled-272x928-mipi-co6300) | [Link](https://gitee.com/osptek/3.19-amoled-272x928-mipi-co6300) |
+| 3.19″ | 262×928 | AMOLED | CO6300 | [Link](https://github.com/osptek/3.19-amoled-262x928-mipi-co6300) | [Link](https://gitee.com/osptek/3.19-amoled-262x928-mipi-co6300) |
 | 3.42″ | 258×960 | TFT | AXS15231B | [Link](https://github.com/osptek/3.42-tft-258x960-mipi-axs15231b) | [Link](https://gitee.com/osptek/3.42-tft-258x960-mipi-axs15231b) |
 | 3.82″ | 280×1020 | TFT | AXS15231B | [Link](https://github.com/osptek/3.82-tft-280x1020-mipi-axs15231b) | [Link](https://gitee.com/osptek/3.82-tft-280x1020-mipi-axs15231b) |
 | 3.95″ | 480×480 | TFT | ST7102 | [Link](https://github.com/osptek/3.95-tft-480x480-mipi-st7102) | [Link](https://gitee.com/osptek/3.95-tft-480x480-mipi-st7102) |
