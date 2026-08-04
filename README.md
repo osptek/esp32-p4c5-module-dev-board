@@ -311,7 +311,7 @@ esp32-p4c5-module-dev-board/
 - 📧 技术支持 / 产品咨询：<luyu@osptek.com>
 - 🐧 QQ 技术交流群：**985881096**
 - 🌐 公司官网：<https://osptek.com/>
-- 使用中如有问题，也可在本仓库 [Issues](https://github.com/osptek/esp32-p4c5-module-dev-board/issues) 中提问
+- 有任何问题，都可以在本仓库 Issues 中提问
 
 ---
 

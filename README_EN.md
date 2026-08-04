@@ -308,7 +308,7 @@ For technical questions or business inquiries, feel free to contact us:
 - 📧 Technical Support / Sales: <luyu@osptek.com>
 - 🐧 QQ Technical Group: **985881096**
 - 🌐 Website: <https://osptek.com/>
-- For questions or problems, you can also open a GitHub [Issue](https://github.com/osptek/esp32-p4c5-module-dev-board/issues)
+- Feel free to open an Issue in this repository if you have any questions
 
 ---
 
