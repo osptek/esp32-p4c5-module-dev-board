@@ -179,6 +179,17 @@ OSPTEK ESP32-P4C5-Module 开发板是一款以 **ESP32-P4C5 核心板** 为核�
 | 安装孔距 | 66.16 × 46.15 mm（±0.3 mm） |
 | 安装孔   | 4 × M3 螺丝孔           |
 
+### 配套外壳
+
+可选 **4 英寸** 前后壳（V1.0），适配本开发板 + 配套显示模组；背面开窗保留排针与扬声器孔，顶部预留摄像头开孔。
+
+<p align="center"><img alt="ESP32-P4C5-Module 开发板配套外壳宣传图" src="./images/enclosure.png" width="520" /></p>
+
+| 文件 | 说明 |
+| ---- | ---- |
+| [前壳 STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Front-4inch-V1.0.STEP) | 4inch 前壳 |
+| [后壳 STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Back-4inch-V1.0.STEP) | 4inch 后壳 |
+
 ### 原理图
 
 <p align="center"><img alt="ESP32-P4C5-Module 开发板原理图" src="./images/schematic.jpg" width="900" /></p>
@@ -249,7 +260,7 @@ OSPTEK ESP32-P4C5-Module 开发板是一款以 **ESP32-P4C5 核心板** 为核�
 esp32-p4c5-module-dev-board/
 ├── README.md          # 产品说明（本文档）
 ├── README_EN.md       # 英文说明
-├── docs/              # 使用指南、原理图、摄像头/天线等 PDF 资料
+├── docs/              # 使用指南、原理图、外壳 STEP、摄像头/天线等资料
 └── images/            # README 及文档使用的图片
 ```
 
@@ -259,6 +270,8 @@ esp32-p4c5-module-dev-board/
 
 - [ESP32-P4-Module 使用指南](./docs/ESP32-P4-Module_使用指南2026.03.26.pdf)
 - [ESP32P4 模组基础底板原理图 V1.3](./docs/ESP32P4模组基础底板V1.3.pdf)
+- [4 英寸外壳前壳 STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Front-4inch-V1.0.STEP)
+- [4 英寸外壳后壳 STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Back-4inch-V1.0.STEP)
 
 ### 配套外设资料
 

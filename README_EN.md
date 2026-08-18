@@ -182,6 +182,17 @@ near the top of the back side.
 | Mounting Pitch  | 66.16 × 46.15 mm (±0.3 mm)        |
 | Mounting Holes  | 4 × M3                            |
 
+### Enclosure
+
+Optional **4-inch** front/back enclosure (V1.0) for this board with a matching display. The back shell keeps header windows and a speaker grille; the top has a camera cutout.
+
+<p align="center"><img alt="ESP32-P4C5-Module Dev Board enclosure promo" src="./images/enclosure.png" width="520" /></p>
+
+| File | Description |
+| ---- | ----------- |
+| [Front shell STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Front-4inch-V1.0.STEP) | 4-inch front |
+| [Back shell STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Back-4inch-V1.0.STEP) | 4-inch back |
+
 ### Schematic
 
 <p align="center"><img alt="ESP32-P4C5-Module Dev Board schematic" src="./images/schematic.jpg" width="900" /></p>
@@ -253,7 +264,7 @@ see Espressif docs:
 esp32-p4c5-module-dev-board/
 ├── README.md          # Chinese product docs
 ├── README_EN.md       # English product docs (this file)
-├── docs/              # User guide, schematic, camera/antenna PDFs
+├── docs/              # User guide, schematic, enclosure STEP, camera/antenna files
 └── images/            # Images used by the README
 ```
 
@@ -263,6 +274,8 @@ esp32-p4c5-module-dev-board/
 
 - [ESP32-P4-Module User Guide](./docs/ESP32-P4-Module_使用指南2026.03.26.pdf)
 - [ESP32-P4 Module Carrier Schematic V1.3](./docs/ESP32P4模组基础底板V1.3.pdf)
+- [4-inch enclosure front STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Front-4inch-V1.0.STEP)
+- [4-inch enclosure back STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Back-4inch-V1.0.STEP)
 
 ### Peripheral Docs
 
