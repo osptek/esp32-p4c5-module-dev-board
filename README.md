@@ -268,7 +268,8 @@ esp32-p4c5-module-dev-board/
 
 ### 本产品资料
 
-- [ESP32-P4-Module 使用指南](./docs/ESP32-P4-Module_使用指南2026.03.26.pdf)
+- [ESP32-P4-Module 使用指南（中文，含原理图）](./docs/ESP32-P4-Module_使用指南2026.09.10（含原理图）.pdf)
+- [ESP32-P4-Module User Guide（英文）](./docs/ESP32-P4-Module_User%20Guide%2020260910.pdf)
 - [ESP32P4 模组基础底板原理图 V1.3](./docs/ESP32P4模组基础底板V1.3.pdf)
 - [4 英寸外壳前壳 STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Front-4inch-V1.0.STEP)
 - [4 英寸外壳后壳 STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Back-4inch-V1.0.STEP)
