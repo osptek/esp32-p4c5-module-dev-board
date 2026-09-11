@@ -9,7 +9,7 @@
 <p align="center">
   <img alt="MCU: ESP32-P4" src="https://img.shields.io/badge/MCU-ESP32--P4-E7352C?style=flat-square" />
   <img alt="Wireless: ESP32-C5HF4" src="https://img.shields.io/badge/Wireless-ESP32--C5HF4-0A7BBB?style=flat-square" />
-  <img alt="Clock: 360 MHz" src="https://img.shields.io/badge/Clock-360_MHz-F39C12?style=flat-square" />
+  <img alt="Clock: 400 MHz" src="https://img.shields.io/badge/Clock-400_MHz-F39C12?style=flat-square" />
   <img alt="Flash: 16 MB" src="https://img.shields.io/badge/Flash-16_MB-27AE60?style=flat-square" />
   <img alt="PSRAM: 32 MB" src="https://img.shields.io/badge/PSRAM-32_MB-27AE60?style=flat-square" />
 </p>
@@ -41,14 +41,14 @@ OSPTEK ESP32-P4C5-Module 开发板是一款以 **ESP32-P4C5 核心板** 为核�
 并通过 2×2×17 排针引出 ESP32-P4 的 55 个可编程 GPIO 及 ESP32-C5 的 9 个 GPIO，
 省去自行设计底板的工作，可直接用于方案评估与二次开发。
 
-核心板搭载的 ESP32-P4 内置 2 个高性能（HP）RISC-V 内核和 1 个低功耗（LP）内核，主频高达 360 MHz，
+核心板搭载的 ESP32-P4 内置 2 个高性能（HP）RISC-V 内核和 1 个低功耗（LP）内核，主频高达 400 MHz，
 集成 JPEG 编解码器、像素处理加速器（PPA）、图像信号处理器（ISP）与 H.264 视频编码器；
 配合 ESP32-C5 提供 Wi-Fi 6（2.4/5 GHz 双频）、蓝牙 5（LE）与 IEEE 802.15.4（Zigbee / Thread）无线连接。
 
 ## 产品特性
 
 - 🚀 **开箱即用**：核心板 + 底板一体，无需自行设计底板，上电即可评估与开发
-- ⚡ **高性能双核**：ESP32-P4 双核 RISC-V 处理器，主频高达 360 MHz，16 MB Flash + 32 MB PSRAM
+- ⚡ **高性能双核**：ESP32-P4 双核 RISC-V 处理器，主频高达 400 MHz，16 MB Flash + 32 MB PSRAM
 - 🎨 **强大多媒体**：集成 JPEG 编解码、H.264 视频编码、PPA、ISP，胜任图像与视频处理
 - 📶 **无线连接**：Wi-Fi 6（2.4/5 GHz 双频）、蓝牙 5（LE）、IEEE 802.15.4（Zigbee / Thread）
 - 📷 **摄像头接口**：MIPI-CSI 24P 接口 + 15P 树莓派兼容接口，可直接接入 SC2336 摄像头
@@ -79,7 +79,7 @@ OSPTEK ESP32-P4C5-Module 开发板是一款以 **ESP32-P4C5 核心板** 为核�
 | -------- | ------------------------------------------ |
 | 核心板   | ESP32-P4C5 核心板（88 Pin 邮票孔）         |
 | 主控     | 乐鑫 ESP32-P4（2 × HP RISC-V + 1 × LP 内核） |
-| 主频     | 高达 360 MHz                               |
+| 主频     | 高达 400 MHz                               |
 | ROM      | 128 KB HP ROM + 16 KB LP ROM               |
 | SRAM     | 768 KB HP L2MEM + 32 KB LP SRAM + 8 KB TCM |
 | Flash    | 16 MB 串行 NOR Flash                       |

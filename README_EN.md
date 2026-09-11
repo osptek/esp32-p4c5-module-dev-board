@@ -9,7 +9,7 @@
 <p align="center">
   <img alt="MCU: ESP32-P4" src="https://img.shields.io/badge/MCU-ESP32--P4-E7352C?style=flat-square" />
   <img alt="Wireless: ESP32-C5HF4" src="https://img.shields.io/badge/Wireless-ESP32--C5HF4-0A7BBB?style=flat-square" />
-  <img alt="Clock: 360 MHz" src="https://img.shields.io/badge/Clock-360_MHz-F39C12?style=flat-square" />
+  <img alt="Clock: 400 MHz" src="https://img.shields.io/badge/Clock-400_MHz-F39C12?style=flat-square" />
   <img alt="Flash: 16 MB" src="https://img.shields.io/badge/Flash-16_MB-27AE60?style=flat-square" />
   <img alt="PSRAM: 32 MB" src="https://img.shields.io/badge/PSRAM-32_MB-27AE60?style=flat-square" />
 </p>
@@ -43,14 +43,14 @@ interfaces plus multi-path power protection, and breaks out 55 programmable GPIO
 own carrier board.
 
 The onboard ESP32-P4 integrates two high-performance (HP) RISC-V cores and one low-power (LP) core,
-running at up to 360 MHz, with a JPEG codec, Pixel Processing Accelerator (PPA), Image Signal
+running at up to 400 MHz, with a JPEG codec, Pixel Processing Accelerator (PPA), Image Signal
 Processor (ISP), and H.264 video encoder. ESP32-C5 provides Wi-Fi 6 (2.4/5 GHz dual-band),
 Bluetooth 5 (LE), and IEEE 802.15.4 (Zigbee / Thread) wireless connectivity.
 
 ## Features
 
 - 🚀 **Ready to Use**: core board + carrier in one — power on and start evaluating
-- ⚡ **High-Performance Dual-Core**: ESP32-P4 dual-core RISC-V, up to 360 MHz, 16 MB Flash + 32 MB PSRAM
+- ⚡ **High-Performance Dual-Core**: ESP32-P4 dual-core RISC-V, up to 400 MHz, 16 MB Flash + 32 MB PSRAM
 - 🎨 **Rich Multimedia**: JPEG codec, H.264 encoding, PPA, and ISP for image and video workloads
 - 📶 **Wireless Connectivity**: Wi-Fi 6 (2.4/5 GHz dual-band), Bluetooth 5 (LE), IEEE 802.15.4 (Zigbee / Thread)
 - 📷 **Camera Interfaces**: MIPI-CSI 24P + 15P Raspberry Pi–compatible connector; works with SC2336
@@ -81,7 +81,7 @@ Bluetooth 5 (LE), and IEEE 802.15.4 (Zigbee / Thread) wireless connectivity.
 | ---------- | -------------------------------------------------- |
 | Core Board | ESP32-P4C5 Core Board (88-pin stamp hole)          |
 | Main Chip  | Espressif ESP32-P4 (2 × HP RISC-V + 1 × LP core)   |
-| Clock      | Up to 360 MHz                                      |
+| Clock      | Up to 400 MHz                                      |
 | ROM        | 128 KB HP ROM + 16 KB LP ROM                       |
 | SRAM       | 768 KB HP L2MEM + 32 KB LP SRAM + 8 KB TCM         |
 | Flash      | 16 MB serial NOR Flash                             |
