@@ -1,0 +1,12 @@
+id: esp32-p4c5-module-dev-board
+category: dev-boards
+
+title: ESP32-P4C5-Module
+summary: Ready-to-use carrier with MIPI display/camera, audio, USB, and full GPIO breakout.
+
+specs:
+  mcu: ESP32-P4
+  wireless: ESP32-C5HF4
+  clock: 400 MHz
+  flash: 16 MB
+  psram: 32 MB
