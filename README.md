@@ -254,6 +254,16 @@ OSPTEK ESP32-P4C5-Module 开发板是一款以 **ESP32-P4C5 核心板** 为核�
 - [ESP-IDF 快速入门 · ESP32-P4（中文）](https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32p4/get-started/)
 - [ESP-IDF Get Started · ESP32-P4（英文）](https://docs.espressif.com/projects/esp-idf/en/latest/esp32p4/get-started/)
 
+不装 ESP-IDF 时可先烧录下面合并包，验证开发板。
+
+**烧录目标：** ESP32-P4。拨动开关**往上拨到 P4**，不要拨到 C5。
+
+| 文件 | 烧录地址 | 说明 |
+| ---- | -------- | ---- |
+| [`firmware/ESP32C5_2.12.9_0X0.bin`](./firmware/ESP32C5_2.12.9_0X0.bin) | `0x0`（合并包） | P4 侧固件 2.12.9 |
+
+> 合并包请烧到 **`0x0`**，不要当成应用分区去烧 `0x10000`。
+
 ## 仓库结构
 
 ```
@@ -261,6 +271,7 @@ esp32-p4c5-module-dev-board/
 ├── README.md          # 产品说明（本文档）
 ├── README_EN.md       # 英文说明
 ├── docs/              # 使用指南、原理图、外壳 STEP、摄像头/天线等资料
+├── firmware/          # 预编译固件（烧 P4 · 0x0）
 └── images/            # README 及文档使用的图片
 ```
 
@@ -273,6 +284,7 @@ esp32-p4c5-module-dev-board/
 - [ESP32P4 模组基础底板原理图 V1.3](./docs/ESP32P4模组基础底板V1.3.pdf)
 - [4 英寸外壳前壳 STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Front-4inch-V1.0.STEP)
 - [4 英寸外壳后壳 STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Back-4inch-V1.0.STEP)
+- [P4 预编译固件 2.12.9（烧 `0x0`）](./firmware/ESP32C5_2.12.9_0X0.bin)
 
 ### 配套外设资料
 

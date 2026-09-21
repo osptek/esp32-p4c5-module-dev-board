@@ -258,6 +258,16 @@ see Espressif docs:
 - [ESP-IDF Get Started · ESP32-P4](https://docs.espressif.com/projects/esp-idf/en/latest/esp32p4/get-started/)
 - [ESP-IDF 快速入门 · ESP32-P4（中文）](https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32p4/get-started/)
 
+Without ESP-IDF you can flash the merged image below to check the board.
+
+**Flash target:** ESP32-P4. Set the switch **up to P4**, not C5.
+
+| File | Address | Notes |
+| ---- | ------- | ----- |
+| [`firmware/ESP32C5_2.12.9_0X0.bin`](./firmware/ESP32C5_2.12.9_0X0.bin) | `0x0` (merged) | P4 firmware 2.12.9 |
+
+> Flash the merged image at **`0x0`**. Do not flash it as an app image at `0x10000`.
+
 ## Repository Structure
 
 ```
@@ -265,6 +275,7 @@ esp32-p4c5-module-dev-board/
 ├── README.md          # Chinese product docs
 ├── README_EN.md       # English product docs (this file)
 ├── docs/              # User guide, schematic, enclosure STEP, camera/antenna files
+├── firmware/          # Prebuilt firmware (flash P4 @ 0x0)
 └── images/            # Images used by the README
 ```
 
@@ -277,6 +288,7 @@ esp32-p4c5-module-dev-board/
 - [ESP32-P4 Module Carrier Schematic V1.3](./docs/ESP32P4模组基础底板V1.3.pdf)
 - [4-inch enclosure front STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Front-4inch-V1.0.STEP)
 - [4-inch enclosure back STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Back-4inch-V1.0.STEP)
+- [P4 prebuilt firmware 2.12.9 (flash at `0x0`)](./firmware/ESP32C5_2.12.9_0X0.bin)
 
 ### Peripheral Docs
 
