@@ -184,7 +184,10 @@ near the top of the back side.
 
 ### Enclosure
 
-Optional **4-inch** front/back enclosure (V1.0) for this board with a matching display. The back shell keeps header windows and a speaker grille; the top has a camera cutout.
+Two optional enclosures:
+
+- **4-inch** front/back shells (V1.0) for this board with a matching display. The back shell keeps header windows and a speaker grille; the top has a camera cutout.
+- **3.95-inch** camera enclosure with a 180° flip case, for a 3.95-inch display and camera.
 
 <p align="center"><img alt="ESP32-P4C5-Module Dev Board enclosure promo" src="./images/enclosure.png" width="520" /></p>
 
@@ -192,6 +195,7 @@ Optional **4-inch** front/back enclosure (V1.0) for this board with a matching d
 | ---- | ----------- |
 | [Front shell STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Front-4inch-V1.0.STEP) | 4-inch front |
 | [Back shell STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Back-4inch-V1.0.STEP) | 4-inch back |
+| [3.95-inch camera flip-case STEP](./docs/ESP32-P4C5-Module-Enclosure-3.95inch-Camera-180Flip-Case.STEP) | 3.95-inch camera, 180° flip case |
 
 ### Schematic
 
@@ -288,6 +292,7 @@ esp32-p4c5-module-dev-board/
 - [ESP32-P4 Module Carrier Schematic V1.3](./docs/ESP32P4模组基础底板V1.3.pdf)
 - [4-inch enclosure front STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Front-4inch-V1.0.STEP)
 - [4-inch enclosure back STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Back-4inch-V1.0.STEP)
+- [3.95-inch camera 180° flip-case STEP](./docs/ESP32-P4C5-Module-Enclosure-3.95inch-Camera-180Flip-Case.STEP)
 - [C5 prebuilt firmware 2.12.9 (flash at `0x0`)](./firmware/ESP32C5_2.12.9_0X0.bin)
 
 ### Peripheral Docs

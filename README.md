@@ -181,7 +181,10 @@ OSPTEK ESP32-P4C5-Module 开发板是一款以 **ESP32-P4C5 核心板** 为核�
 
 ### 配套外壳
 
-可选 **4 英寸** 前后壳（V1.0），适配本开发板 + 配套显示模组；背面开窗保留排针与扬声器孔，顶部预留摄像头开孔。
+可选两套外壳：
+
+- **4 英寸** 前后壳（V1.0），适配本开发板 + 配套显示模组；背面开窗保留排针与扬声器孔，顶部预留摄像头开孔。
+- **3.95 英寸** 摄像头 180° 翻转壳，适配 3.95 寸屏与摄像头的翻转结构。
 
 <p align="center"><img alt="ESP32-P4C5-Module 开发板配套外壳宣传图" src="./images/enclosure.png" width="520" /></p>
 
@@ -189,6 +192,7 @@ OSPTEK ESP32-P4C5-Module 开发板是一款以 **ESP32-P4C5 核心板** 为核�
 | ---- | ---- |
 | [前壳 STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Front-4inch-V1.0.STEP) | 4inch 前壳 |
 | [后壳 STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Back-4inch-V1.0.STEP) | 4inch 后壳 |
+| [3.95 英寸摄像头翻转壳 STEP](./docs/ESP32-P4C5-Module-Enclosure-3.95inch-Camera-180Flip-Case.STEP) | 3.95inch 摄像头 180° 翻转壳 |
 
 ### 原理图
 
@@ -284,6 +288,7 @@ esp32-p4c5-module-dev-board/
 - [ESP32P4 模组基础底板原理图 V1.3](./docs/ESP32P4模组基础底板V1.3.pdf)
 - [4 英寸外壳前壳 STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Front-4inch-V1.0.STEP)
 - [4 英寸外壳后壳 STEP V1.0](./docs/ESP32-P4C5-Module-Enclosure-Back-4inch-V1.0.STEP)
+- [3.95 英寸摄像头 180° 翻转壳 STEP](./docs/ESP32-P4C5-Module-Enclosure-3.95inch-Camera-180Flip-Case.STEP)
 - [C5 预编译固件 2.12.9（烧 `0x0`）](./firmware/ESP32C5_2.12.9_0X0.bin)
 
 ### 配套外设资料
